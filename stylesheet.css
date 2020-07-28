@@ -1,0 +1,15 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    color : brown;
+}
+
+.about {
+    font-size: 100px;
+}
+
+#pic {
+    height : 30vh;
+}
